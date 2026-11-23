@@ -1,2 +1,2 @@
 # myFirstRepo
-Author - Harsh Ilake
+Author - Harsh Shripati Ilake
